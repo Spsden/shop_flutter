@@ -1,7 +1,13 @@
 import 'package:flutter/material.dart';
+
+import 'package:flutter_catalogue/pages/homepage.dart';
+import 'package:flutter_catalogue/pages/LoginPage.dart';
+import 'package:flutter_catalogue/utils/routes.dart'; 
+=======
 import 'package:flutter_catalogue/pages/Homepage.dart';
 import 'package:flutter_catalogue/pages/LoginPage.dart';
 import 'package:flutter_catalogue/utils/routes.dart';
+
 import 'package:google_fonts/google_fonts.dart';
 
 void main() {
